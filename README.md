@@ -1,8 +1,6 @@
 # tryhackme-free-rooms
 List of free TryHackMe rooms to start learning cybersecurity with THM
 
-Compilado de Labs gratuito no THM
-
 # Introduction
 - OpenVPN https://tryhackme.com/room/openvpn
 - Welcome https://tryhackme.com/jr/welcome
