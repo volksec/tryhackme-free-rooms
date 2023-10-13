@@ -42,7 +42,7 @@ Compilado de Labs gratuito no THM
 - Jack of all trades https://tryhackme.com/room/jackofalltrades
 - Bolt https://tryhackme.com/room/bolt
 
-# Engenharia Reversa
+# Reverse engineering
 - Reversing ELF https://tryhackme.com/room/reverselfiles
 - Dumping Router Firmware https://tryhackme.com/room/rfirmware
 
